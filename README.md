@@ -14,6 +14,6 @@ Postman
 Git Hub 
 
 Autor 
-![CV](https://github.com/nomito2323/ConversoApp/assets/173855307/2f4187df-ecaa-40d7-8a05-9fb2671cae7c)
+<![CV](https://github.com/nomito2323/ConversoApp/assets/173855307/2f4187df-ecaa-40d7-8a05-9fb2671cae7c)  width=115>
 
 
